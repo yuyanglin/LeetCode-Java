@@ -4,6 +4,7 @@ public class Solution {
     		return nums;
     	}
     	// The added message
+    	// The second message
 
     	return new int[];
     }
